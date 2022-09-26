@@ -18,3 +18,5 @@ Instala las dependencias de PHP e inicia el servidor.
 ```sh
 git clone https://github.com/pcarcal254/APLICACION-PHP-1
 ```
+
+> Nota: `GET` sera la forma de introducir los números.
